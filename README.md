@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Made Amartya Ravindra, an Economics student at Gadjah Mada University. .\n\n
+I'm Made Amartya Ravindra, an Economics student at Gadjah Mada University.
+
 I'm passionate about solving logical problems and I'm currently on a journey to become a Quant. 
 My goal is to use data to uncover insights and solve complex market challenges.
 
