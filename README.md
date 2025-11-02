@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Made Amartya Ravindra, an Economics student at Gadjah Mada University. I'm passionate about solving logical problems and I'm currently on a journey to become a data scientist. I'm actively learning Python to pave my way toward a career in data science. My goal is to use data to uncover insights and solve complex challenges.
+I'm Made Amartya Ravindra, an Economics student at Gadjah Mada University. I'm passionate about solving logical problems and I'm currently on a journey to become a Quant. My goal is to use data to uncover insights and solve complex market challenges.
 
 
 ## 🌐 Socials:
