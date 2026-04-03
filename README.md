@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 I'm Made Amartya Ravindra, an Economics student at Gadjah Mada University.  
-I'm passionate about solving logical problems and I'm aspiring myself to jump into Quantitative Finance.  
-My goal is to use data to uncover insights and solve complex market challenges.
+I'm passionate about finding patterns and solving logical problems.
+I'm aspiring myself to jump into Quantitative Finance.  
 
 
 ## 🌐 Socials:
