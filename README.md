@@ -9,9 +9,6 @@ There is a friend that bring this thing to school and I felt in love on the firs
 By now, my PB 3x3 was on 27.35 and still find the way to get sub 20.   
 (for sure I have much thing to improve, such as masterin F2L, OLL & PLL)   
 
-<p align="center">
-  <img src="assets/rubiks-cube.svg" width="300" alt="Rubik's Cube" />
-</p>
 
 
 ## 🌐 Socials:
