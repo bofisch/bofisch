@@ -9,6 +9,10 @@ There is a friend that bring this thing to school and I felt in love on the firs
 By now, my PB 3x3 was on 27.35 and still find the way to get sub 20.   
 (for sure I have much thing to improve, such as masterin F2L, OLL & PLL)   
 
+<p align="center">
+  <img src="assets/rubiks-cube.svg" width="300" alt="Rubik's Cube" />
+</p>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wimbow) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/amartya.ravindra.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amartya_ravindra/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/made-amartya-ravindra-218a88376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amartya.ravindra@gmail.com) 
