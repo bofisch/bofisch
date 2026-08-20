@@ -17,6 +17,6 @@ I love discovering new patterns on my colorful cube (PR: 27.35).
 *What's on going: Trying to make predictions for Australian Open's Champion as one of the Grand Slam with the most unexpected ending. ([Inspo](https://youtu.be/N4JDlSTMOck))
 
 [![Instagram](https://img.shields.io/badge/-@albegmahareza-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/amartya_ravindra)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@albegmahareza](https://www.youtube.com/@bofisch)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@bofisch)
 
 ---
