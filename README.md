@@ -16,26 +16,7 @@ I love discovering new patterns on my colorful cube (PR: 27.35).
 
 *What's on going: Trying to make predictions for Australian Open's Champion as one of the Grand Slam with the most unexpected ending. ([Inspo](https://youtu.be/N4JDlSTMOck))
 
-# About Me:
-<p align="center"> I'm Made Amartya Ravindra, an Economics student at Gadjah Mada University. I'm passionate about finding patterns and solving logical problems. Btw, I felt in love solving cubes on my junior high school. There was my friend that bring this thing to school and I felt in love on the first sight of it. By now, my PB 3x3 was on 27.35 and still find the way to get sub 20. (for sure I have much thing to improve, such as masterin F2L, OLL & PLL) 
-</p>
-
-[![Instagram](https://img.shields.io/badge/-@albegmahareza-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/albegmahareza)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@albegmahareza)
-
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wimbow) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/amartya.ravindra.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amartya_ravindra/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/made-amartya-ravindra-218a88376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amartya.ravindra@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bofisch&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bofisch&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bofisch&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Instagram](https://img.shields.io/badge/-@albegmahareza-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/amartya_ravindra)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@albegmahareza](https://www.youtube.com/@bofisch)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bofisch&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
