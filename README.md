@@ -1,4 +1,4 @@
-<h1>Made Amartya Ravindra <sup>/ˈʌn.də.dɒɡ/</sup></h1>
+# Made Amartya Ravindra <br> /ˈʌn.də.dɒɡ/
 
 **Economics @ FEB UGM**
 
