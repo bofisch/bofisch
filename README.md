@@ -1,4 +1,5 @@
-# Made Amartya Ravindra   /ˈʌn.də.dɒɡ/
+### Made Amartya Ravindra
+/ˈʌn.də.dɒɡ/
 
 **Economics @ FEB UGM**
 
