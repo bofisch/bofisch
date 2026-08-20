@@ -1,13 +1,8 @@
 ## Hi there 👋
 
 # About Me:
-I'm Made Amartya Ravindra, an Economics student at Gadjah Mada University.  
-I'm passionate about finding patterns and solving logical problems.   
-
-Btw, I felt in love solving cubes on my junior high school.   
-There was my friend that bring this thing to school and I felt in love on the first sight of it.   
-By now, my PB 3x3 was on 27.35 and still find the way to get sub 20.   
-(for sure I have much thing to improve, such as masterin F2L, OLL & PLL)   
+<p align="center"> I'm Made Amartya Ravindra, an Economics student at Gadjah Mada University. I'm passionate about finding patterns and solving logical problems. Btw, I felt in love solving cubes on my junior high school. There was my friend that bring this thing to school and I felt in love on the first sight of it. By now, my PB 3x3 was on 27.35 and still find the way to get sub 20. (for sure I have much thing to improve, such as masterin F2L, OLL & PLL) 
+</p>
 
 
 
