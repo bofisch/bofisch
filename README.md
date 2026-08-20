@@ -1,5 +1,5 @@
 # Made Amartya Ravindra
-# /ˈʌn.də.dɒɡ/
+/ˈʌn.də.dɒɡ/
 
 **Economics @ FEB UGM**
 
