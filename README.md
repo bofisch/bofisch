@@ -16,7 +16,7 @@ I love discovering new patterns on my colorful cube (PR: 27.35).
 
 *What's on going: Trying to make predictions for Australian Open's Champion as one of the Grand Slam with the most unexpected ending. ([Inspo](https://youtu.be/N4JDlSTMOck))*
 
-_"no no no, i've never lose hope"_
+_"no no no, i've never lose hope"_   
 Carlos Alcaraz   
 (2024 China Open)   
 
