@@ -2,7 +2,7 @@
 
 **Economics @ FEB UGM**
 
-I love discovering new patterns on my colorful cube (PR: 27.35).
+I love discovering new patterns on my colorful cube (PR: 23.15).
 
 ---
 
